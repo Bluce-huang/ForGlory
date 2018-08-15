@@ -1,2 +1,3 @@
 # ForGlory
 GoLangStudy
+hello world
